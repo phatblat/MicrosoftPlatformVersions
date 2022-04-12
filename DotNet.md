@@ -180,6 +180,25 @@ https://dotnet.microsoft.com/en-us/download/dotnet
 - Status: LTS (until 2022-12-03)
 - [Download .NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1)
 
+### 3.1.24
+
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.24/3.1.24.md)
+
+#### SDK 3.1.418 - 2022-03-12
+
+- Visual Studio support
+  - Visual Studio 2019 (v16.7)
+  - Visual Studio 2019 for Mac (v8.10)
+  - Included in Visual Studio 16.7.27
+- Included runtimes
+  - .NET Runtime 3.1.24
+  - ASP.NET Core Runtime 3.1.24
+  - .NET Desktop Runtime 3.1.24
+- Language support
+  - C# 8.0
+  - F# 4.7
+  - Visual Basic 15.9
+
 ### 3.1.23
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.23/3.1.23.md)
