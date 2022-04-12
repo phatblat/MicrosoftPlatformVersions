@@ -16,6 +16,7 @@
 
 ## Visual Studio 2019 for Mac version 8.10
 
+- [8.10.22](https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2019-mac-relnotes#8122) (8.10.22.11) - 2022-04-12
 - [8.10.21](https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2019-mac-relnotes#8121) (8.10.21.4) - 2022-03-22
 - [8.10.20](https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2019-mac-relnotes#8120) (8.10.20.0) - 2022-03-08
 - [8.10.19](https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2019-mac-relnotes#8119) (8.10.19.2) - 2022-02-15
