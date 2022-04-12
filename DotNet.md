@@ -159,9 +159,46 @@ https://dotnet.microsoft.com/en-us/download/dotnet
 - Status: Current (until 2022-05-08)
 - [Download .NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 
+### 5.0.16
+
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.16/5.0.16.md)
+
+#### SDK 5.0.407 - 2022-04-12
+
+- Runtimes
+  - .NET Runtime 5.0.16
+  - ASP.NET Core Runtime 5.0.16
+  - .NET Desktop Runtime 5.0.16
+- Visual Studio support
+  - Visual Studio 2019 (v16.11)
+  - Visual Studio 2019 for Mac (v8.10)
+  - Included in Visual Studio 16.11.12
+- Language support
+  - C# 9.0
+  - F# 5.0
+  - Visual Basic 16.0
+
+#### SDK 5.0.213 - 2022-04-12
+
+- Runtimes
+  - .NET Runtime 5.0.16
+  - ASP.NET Core Runtime 5.0.16
+  - .NET Desktop Runtime 5.0.16
+- Visual Studio support
+  - Visual Studio 2019 (v16.9)
+  - Visual Studio 2019 for Mac (v8.10)
+  - Included in Visual Studio 16.9.18
+- Language support
+  - C# 9.0
+  - F# 5.0
+  - Visual Basic 16.0
+
 ### 5.0.15
 
-- SDK 5.0.406
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.15/5.0.15.md)
+
+#### SDK 5.0.406 - 2022-04-08
+
 - Runtimes
   - .NET Runtime 5.0.15
   - ASP.NET Core Runtime 5.0.15
