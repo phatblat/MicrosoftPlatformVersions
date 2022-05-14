@@ -4,6 +4,7 @@
 
 [github tags](https://github.com/xamarin/xamarin-macios/tags)
 
+- [15.10.0.1] - 2022-05-10
 - [15.8.0.3] - 2022-04-12
 - [15.8.0.0] - 2022-03-22
 - [15.6.0.3] - 2022-02-15
@@ -13,6 +14,7 @@
 - [15.2.0.1] - 2021-11-02
 - [15.0.0.6] - 2021-09-29
 
+[15.10.0.1]: https://github.com/xamarin/xamarin-macios/releases/tag/xamarin-ios-15.10.0.1
 [15.8.0.3]: https://github.com/xamarin/xamarin-macios/releases/tag/xamarin-ios-15.8.0.3
 [15.8.0.0]: https://github.com/xamarin/xamarin-macios/releases/tag/xamarin-ios-15.8.0.0
 [15.6.0.3]: https://github.com/xamarin/xamarin-macios/releases/tag/xamarin-ios-15.6.0.3
