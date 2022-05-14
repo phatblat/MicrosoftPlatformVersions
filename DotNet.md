@@ -331,10 +331,29 @@ https://dotnet.microsoft.com/en-us/download/dotnet
   - F# 5.0
   - Visual Basic 16.0
 
+---
+
 ## Core 3.1
 
 - Status: LTS (until 2022-12-03)
 - [Download .NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1)
+
+### 3.1.25
+
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.24/3.1.24.md)
+
+#### SDK 3.1.419 - 2022-05-10
+
+- Visual Studio support
+  - Visual Studio 2019 for Mac (v8.10)
+- Included runtimes
+  - .NET Runtime 3.1.25
+  - ASP.NET Core Runtime 3.1.25
+  - .NET Desktop Runtime 3.1.25
+- Language support
+  - C# 8.0
+  - F# 4.7
+  - Visual Basic 15.9
 
 ### 3.1.24
 
