@@ -237,10 +237,46 @@ https://dotnet.microsoft.com/en-us/download/dotnet
   - F# 6.0
   - Visual Basic 16.9
 
+---
+
 ## 5.0
 
 - Status: Current (until 2022-05-08)
 - [Download .NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
+
+### 5.0.17
+
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.17/5.0.17.md)
+
+#### SDK 5.0.408 - 2022-05-10
+
+- Runtimes
+  - .NET Runtime 5.0.17
+  - ASP.NET Core Runtime 5.0.17
+  - .NET Desktop Runtime 5.0.17
+- Visual Studio support
+  - Visual Studio 2019 (v16.11)
+  - Visual Studio 2019 for Mac (v8.10)
+  - Included in Visual Studio 16.11.14
+- Language support
+  - C# 9.0
+  - F# 5.0
+  - Visual Basic 16.0
+
+#### SDK 5.0.214 - 2022-05-10
+
+- Runtimes
+  - .NET Runtime 5.0.17
+  - ASP.NET Core Runtime 5.0.17
+  - .NET Desktop Runtime 5.0.17
+- Visual Studio support
+  - Visual Studio 2019 (v16.9)
+  - Visual Studio 2019 for Mac (v8.10)
+  - Included in Visual Studio 16.9.21
+- Language support
+  - C# 9.0
+  - F# 5.0
+  - Visual Basic 16.0
 
 ### 5.0.16
 
