@@ -43,10 +43,59 @@ https://dotnet.microsoft.com/en-us/download/dotnet
   - F# 6.0
   - Visual Basic 16.9
 
+---
+
 ## 6.0
 
 - Status: LTS (until 2024-11-08)
 - [Download .NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+
+### 6.0.5 - 2022-05-10
+
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.5/6.0.5.md)
+
+#### SDK 6.0.300
+
+- Runtimes
+  - .NET Runtime 6.0.5
+  - ASP.NET Core Runtime 6.0.5
+  - .NET Desktop Runtime 6.0.5
+- Visual Studio support
+  - Visual Studio 2022 (v17.2)
+- Language support
+  - C# 10.0
+  - F# 6.0
+  - Visual Basic 16.9
+
+#### SDK 6.0.203
+
+- Runtimes
+  - .NET Runtime 6.0.5
+  - ASP.NET Core Runtime 6.0.5
+  - .NET Desktop Runtime 6.0.5
+- Visual Studio support
+  - Visual Studio 2022 (v17.2)
+  - Visual Studio 2022 for Mac (v17.0 latest preview)
+  - Included in Visual Studio 17.2.0
+- Language support
+  - C# 10.0
+  - F# 6.0
+  - Visual Basic 16.9
+
+#### SDK 6.0.105
+
+- Runtimes
+  - .NET Runtime 6.0.5
+  - ASP.NET Core Runtime 6.0.5
+  - .NET Desktop Runtime 6.0.5
+- Visual Studio support
+  - Visual Studio 2022 (v17.0)
+  - Visual Studio 2022 for Mac (v17.0 latest preview)
+  - Included in Visual Studio 17.0.10
+- Language support
+  - C# 10.0
+  - F# 6.0
+  - Visual Basic 16.9
 
 ### 6.0.4 - 2022-03-12
 
