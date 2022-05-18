@@ -429,6 +429,43 @@ https://dotnet.microsoft.com/en-us/download/dotnet
   - F# 4.7
   - Visual Basic 15.9
 
+### 3.1.23
+
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.23/3.1.23.md)
+
+#### SDK 3.1.417 - 2022-03-08
+
+- Visual Studio support
+  - Visual Studio 2019 (v16.7)
+  - Visual Studio 2019 for Mac (v8.10)
+  - Included in Visual Studio 16.7.26
+- Included runtimes
+  - .NET Runtime 3.1.23
+  - ASP.NET Core Runtime 3.1.23
+  - .NET Desktop Runtime 3.1.23
+- Language support
+  - C# 8.0
+  - F# 4.7
+
+### 3.1.22
+
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.22/3.1.22.md)
+
+#### SDK 3.1.416 - 2021-12-14
+
+- Visual Studio support
+  - Visual Studio 2019 (v16.7)
+  - Visual Studio 2019 for Mac (v8.10)
+  - Included in Visual Studio 16.7.22
+- Included runtimes
+  - .NET Runtime 3.1.22
+  - ASP.NET Core Runtime 3.1.22
+  - .NET Desktop Runtime 3.1.22
+- Language support
+  - C# 8.0
+  - F# 4.7
+  - Visual Basic 15.9
+
 ## Unsupported
 
 .NET Core 3.0
