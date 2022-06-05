@@ -1,6 +1,7 @@
 # .NET
 
-https://dotnet.microsoft.com/en-us/download/dotnet
+- https://dotnet.microsoft.com/en-us/download/dotnet
+- https://github.com/dotnet/installer/releases
 
 ## 7.0
 
