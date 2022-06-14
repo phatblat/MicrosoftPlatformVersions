@@ -87,6 +87,23 @@
 - Status: LTS (until 2024-11-08)
 - [Download .NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
+### 6.0.6 - 2022-06-14
+
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.6/6.0.6.md)
+
+#### SDK 6.0.301
+
+- Runtimes
+  - .NET Runtime 6.0.6
+  - ASP.NET Core Runtime 6.0.6
+  - .NET Desktop Runtime 6.0.6
+- Visual Studio support
+  - Visual Studio 2022 (v17.2.4)
+- Language support
+  - C# 10.0
+  - F# 6.0
+  - Visual Basic 16.9
+
 ### 6.0.5 - 2022-05-10
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.5/6.0.5.md)
