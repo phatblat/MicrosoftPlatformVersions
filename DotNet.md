@@ -8,7 +8,25 @@
 - Status: Preview
 - [Download .NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 
-### 7.0.0-preview.4
+### 7.0.0-preview.5 - 2022-06-14
+
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/preview/7.0.0-preview.5.md)
+
+#### SDK 7.0.100-preview.5
+
+- Full version: 7.0.100-preview.5.22307.18
+- Visual Studio support
+  - Visual Studio 2022 (v17.2 latest preview)
+- Included runtimes
+  - .NET Runtime 7.0.0-preview.5.22301.12
+  - ASP.NET Core Runtime 7.0.0-preview.5.22303.8
+  - .NET Desktop Runtime 7.0.0-preview.5.22302.5
+- Language support
+  - C# 10.0
+  - F# 6.0
+  - Visual Basic 16.9
+
+### 7.0.0-preview.4 - 2022-05-10
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/preview/7.0.0-preview.4.md)
 
