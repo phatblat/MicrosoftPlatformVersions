@@ -30,25 +30,25 @@
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/preview/7.0.0-preview.4.md)
 
-#### SDK 7.0.100-preview.4 - 2022-05-10
+#### SDK 7.0.100-preview.4
 
-- Full version: 7.0.100-preview.3.221799.4
+- Full version: 7.0.100-preview.4.22252.9
 - Visual Studio support
   - Visual Studio 2022 (v17.2 latest preview)
 - Included runtimes
-  - .NET Runtime 7.0.0-preview.3.221175.4
-  - ASP.NET Core Runtime 7.0.0-preview.3.22178.4
-  - .NET Desktop Runtime 7.0.0-preview.3.22177.1
+  - .NET Runtime 7.0.0-preview.4.22229.4
+  - ASP.NET Core Runtime 7.0.0-preview.4.22229.4
+  - .NET Desktop Runtime 7.0.0-preview.4.22229.2
 - Language support
   - C# 10.0
   - F# 6.0
   - Visual Basic 16.9
 
-### 7.0.0-preview.3
+### 7.0.0-preview.3 - 2022-04-13
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/preview/7.0.0-preview.3.md)
 
-#### SDK 7.0.100-preview.3 - 2022-04-13
+#### SDK 7.0.100-preview.3
 
 - Full version: 7.0.100-preview.4.22252.9
 - Visual Studio support
@@ -62,11 +62,11 @@
   - F# 6.0
   - Visual Basic 16.9
 
-### 7.0.0-preview.2
+### 7.0.0-preview.2 - 2022-03-15
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/preview/7.0.0-preview.2.md)
 
-#### SDK 7.0.100-preview.2 - 2022-03-15
+#### SDK 7.0.100-preview.2
 
 - Full version: 7.0.100-preview.2.22153.17
 - Visual Studio support
@@ -316,11 +316,11 @@
 - Status: Current (until 2022-05-08)
 - [Download .NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 
-### 5.0.17
+### 5.0.17 - 2022-05-10
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.17/5.0.17.md)
 
-#### SDK 5.0.408 - 2022-05-10
+#### SDK 5.0.408
 
 - Runtimes
   - .NET Runtime 5.0.17
@@ -335,7 +335,7 @@
   - F# 5.0
   - Visual Basic 16.0
 
-#### SDK 5.0.214 - 2022-05-10
+#### SDK 5.0.214
 
 - Runtimes
   - .NET Runtime 5.0.17
@@ -350,11 +350,11 @@
   - F# 5.0
   - Visual Basic 16.0
 
-### 5.0.16
+### 5.0.16 - 2022-04-12
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.16/5.0.16.md)
 
-#### SDK 5.0.407 - 2022-04-12
+#### SDK 5.0.407
 
 - Runtimes
   - .NET Runtime 5.0.16
@@ -369,7 +369,7 @@
   - F# 5.0
   - Visual Basic 16.0
 
-#### SDK 5.0.213 - 2022-04-12
+#### SDK 5.0.213
 
 - Runtimes
   - .NET Runtime 5.0.16
@@ -384,11 +384,11 @@
   - F# 5.0
   - Visual Basic 16.0
 
-### 5.0.15
+### 5.0.15 - 2022-04-08
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.15/5.0.15.md)
 
-#### SDK 5.0.406 - 2022-04-08
+#### SDK 5.0.406
 
 - Runtimes
   - .NET Runtime 5.0.15
@@ -410,11 +410,11 @@
 - Status: LTS (until 2022-12-03)
 - [Download .NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1)
 
-### 3.1.26
+### 3.1.26 - 2022-06-14
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.26/3.1.26.md)
 
-#### SDK 3.1.420 - 2022-06-14
+#### SDK 3.1.420
 
 - Visual Studio support
   - Visual Studio 2019 for Mac (v8.10)
@@ -427,11 +427,11 @@
   - F# 4.7
   - Visual Basic 15.9
 
-### 3.1.25
+### 3.1.25 - 2022-05-10
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.24/3.1.24.md)
 
-#### SDK 3.1.419 - 2022-05-10
+#### SDK 3.1.419
 
 - Visual Studio support
   - Visual Studio 2019 for Mac (v8.10)
@@ -444,11 +444,11 @@
   - F# 4.7
   - Visual Basic 15.9
 
-### 3.1.24
+### 3.1.24 - 2022-03-12
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.24/3.1.24.md)
 
-#### SDK 3.1.418 - 2022-03-12
+#### SDK 3.1.418
 
 - Visual Studio support
   - Visual Studio 2019 (v16.7)
@@ -482,11 +482,11 @@
   - F# 4.7
   - Visual Basic 15.9
 
-### 3.1.23
+### 3.1.23 - 2022-03-08
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.23/3.1.23.md)
 
-#### SDK 3.1.417 - 2022-03-08
+#### SDK 3.1.417
 
 - Visual Studio support
   - Visual Studio 2019 (v16.7)
@@ -499,12 +499,13 @@
 - Language support
   - C# 8.0
   - F# 4.7
+  - Visual Basic 15.9
 
-### 3.1.22
+### 3.1.22 - 2021-12-14
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.22/3.1.22.md)
 
-#### SDK 3.1.416 - 2021-12-14
+#### SDK 3.1.416
 
 - Visual Studio support
   - Visual Studio 2019 (v16.7)
