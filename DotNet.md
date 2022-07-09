@@ -122,6 +122,19 @@
   - F# 6.0
   - Visual Basic 16.9
 
+#### SDK 6.0.106
+
+- Runtimes
+  - .NET Runtime 6.0.6
+  - ASP.NET Core Runtime 6.0.6
+  - .NET Desktop Runtime 6.0.6
+- Visual Studio support
+  - Visual Studio 2022 (v17.2.4)
+- Language support
+  - C# 10.0
+  - F# 6.0
+  - Visual Basic 16.9
+
 ### 6.0.5 - 2022-05-10
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.5/6.0.5.md)
