@@ -4,6 +4,7 @@
 
 ## Visual Studio 2022 for Mac version 17.3
 
+- [Preview 3](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.3.0-pre.3) (17.3.0.1030) - 2022-07-13
 - [Preview 2.1](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.3.0-pre.2.1) (17.3.0.1038) - 2022-06-21
 - [Preview 2](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.3.0-pre.2) (17.3.0.1028) - 2022-06-14
 - [Preview 1.1](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.3.0-pre.1.1) (17.3.0.198) - 2022-05-26
