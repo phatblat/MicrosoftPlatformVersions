@@ -1,6 +1,11 @@
 # Visual Studio for Mac
 
-[Roadmap](https://docs.microsoft.com/en-us/visualstudio/productinfo/mac-roadmap)
+- [Roadmap](https://docs.microsoft.com/en-us/visualstudio/productinfo/mac-roadmap)
+- [Preview Download](https://visualstudio.microsoft.com/vs/mac/preview/)
+
+## Visual Studio 2022 for Mac version 17.4
+
+- [Preview 1](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.4.0-pre.1) (17.4.0.6514966) - 2022-08-09
 
 ## Visual Studio 2022 for Mac version 17.3
 
