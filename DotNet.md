@@ -8,6 +8,24 @@
 - Status: Preview
 - [Download .NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 
+### 7.0.0-preview.7 - 2022-08-09
+
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/preview/7.0.0-preview.7.md)
+
+#### SDK 7.0.100-preview.7
+
+- Full version: 7.0.100-preview.7.223877.5
+- Visual Studio support
+  - Visual Studio 2022 (v17.4 latest preview)
+- Included runtimes
+  - .NET Runtime 7.0.0-preview.7.22375.6
+  - ASP.NET Core Runtime 7.0.0-preview.7.22376.6
+  - .NET Desktop Runtime 7.0.0-preview.7.223877.1
+- Language support
+  - C# 11.0
+  - F# 6.0
+  - Visual Basic 16.9
+
 ### 7.0.0-preview.6 - 2022-07-12
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/preview/7.0.0-preview.6.md)
@@ -22,7 +40,7 @@
   - ASP.NET Core Runtime 7.0.0-preview.6.22330.3
   - .NET Desktop Runtime 7.0.0-preview.6.22351.3
 - Language support
-  - C# 10.0
+  - C# 11.0
   - F# 6.0
   - Visual Basic 16.9
 
@@ -40,7 +58,7 @@
   - ASP.NET Core Runtime 7.0.0-preview.5.22303.8
   - .NET Desktop Runtime 7.0.0-preview.5.22302.5
 - Language support
-  - C# 10.0
+  - C# 11.0
   - F# 6.0
   - Visual Basic 16.9
 
@@ -58,7 +76,7 @@
   - ASP.NET Core Runtime 7.0.0-preview.4.22229.4
   - .NET Desktop Runtime 7.0.0-preview.4.22229.2
 - Language support
-  - C# 10.0
+  - C# 11.0
   - F# 6.0
   - Visual Basic 16.9
 
@@ -76,7 +94,7 @@
   - ASP.NET Core Runtime 7.0.0-preview.4.22251.1
   - .NET Desktop Runtime 7.0.0-preview.4.22229.2
 - Language support
-  - C# 10.0
+  - C# 11.0
   - F# 6.0
   - Visual Basic 16.9
 
@@ -94,7 +112,7 @@
   - ASP.NET Core Runtime 7.0.0-preview.2.22153.2
   - .NET Desktop Runtime 7.0.0-preview.2.22153.5
 - Language support
-  - C# 10.0
+  - C# 11.0
   - F# 6.0
   - Visual Basic 16.9
 
@@ -112,7 +130,7 @@
   - ASP.NET Core Runtime 7.0.0-preview.1.22109.13
   - .NET Desktop Runtime 7.0.0-preview.1.22077.5
 - Language support
-  - C# 10.0
+  - C# 11.0
   - F# 6.0
   - Visual Basic 16.9
 
