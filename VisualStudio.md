@@ -5,6 +5,7 @@
 
 ## Visual Studio 2022 version 17.4
 
+- [Preview 2](https://docs.microsoft.com/en-us/visualstudio/releases/2022/release-notes-preview#17.4.0-pre.2.0) - 2022-09-14
 - [Preview 1](https://docs.microsoft.com/en-us/visualstudio/releases/2022/release-notes-preview#17.4.0-pre.1.0) - 2022-08-09
 
 ## Visual Studio 2022 version 17.3
