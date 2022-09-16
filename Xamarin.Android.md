@@ -4,6 +4,7 @@
 
 [github tags](https://github.com/xamarin/xamarin-android/tags)
 
+- [13.0.99.81] - 2022-09-14
 - [13.0.99.36] - 2022-08-09
 - [13.0.99.18] - 2022-07-21
 - [13.0.0.0] - 2022-07-13
@@ -15,6 +16,7 @@
 - [12.2.4.3] - 2022-04-12
 - [12.2.99.125] - 2022-03-15
 
+[13.0.99.81]: https://github.com/xamarin/xamarin-android/releases/tag/v13.0.99.81
 [13.0.99.36]: https://github.com/xamarin/xamarin-android/releases/tag/v13.0.99.36
 [13.0.99.18]: https://github.com/xamarin/xamarin-android/releases/tag/v13.0.99.18
 [13.0.0.0]: https://github.com/xamarin/xamarin-android/releases/tag/v13.0.0.0
