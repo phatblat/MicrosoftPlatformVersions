@@ -8,6 +8,24 @@
 - Status: Preview
 - [Download .NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 
+### 7.0.0 - 2022-11-08
+
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.0/7.0.0.md)
+
+#### SDK 7.0.100
+
+- Visual Studio support
+  - Visual Studio 2022 (v17.4)
+  - Visual Studio 2022 for Mac (v17.4)
+- Included runtimes
+  - .NET Runtime 7.0.0
+  - ASP.NET Core Runtime 7.0.0
+  - .NET Desktop Runtime 7.0.0
+- Language support
+  - C# 11.0
+  - F# 7.0
+  - Visual Basic 15.5
+
 ### 7.0.0-rc.2 - 2022-09-11
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/preview/7.0.0-rc.2.md)
@@ -24,7 +42,7 @@
   - .NET Desktop Runtime 7.0.0-rc.2.22472.13
 - Language support
   - C# 11.0
-  - F# 6.0
+  - F# 7.0
   - Visual Basic 16.9
 
 ### 7.0.0-rc.1 - 2022-09-14
@@ -43,7 +61,7 @@
   - .NET Desktop Runtime 7.0.0-rc.1.22427.1
 - Language support
   - C# 11.0
-  - F# 6.0
+  - F# 7.0
   - Visual Basic 16.9
 
 ### 7.0.0-preview.7 - 2022-08-09
@@ -61,7 +79,7 @@
   - .NET Desktop Runtime 7.0.0-preview.7.223877.1
 - Language support
   - C# 11.0
-  - F# 6.0
+  - F# 7.0
   - Visual Basic 16.9
 
 ### 7.0.0-preview.6 - 2022-07-12
@@ -79,7 +97,7 @@
   - .NET Desktop Runtime 7.0.0-preview.6.22351.3
 - Language support
   - C# 11.0
-  - F# 6.0
+  - F# 7.0
   - Visual Basic 16.9
 
 ### 7.0.0-preview.5 - 2022-06-14
@@ -97,7 +115,7 @@
   - .NET Desktop Runtime 7.0.0-preview.5.22302.5
 - Language support
   - C# 11.0
-  - F# 6.0
+  - F# 7.0
   - Visual Basic 16.9
 
 ### 7.0.0-preview.4 - 2022-05-10
@@ -115,7 +133,7 @@
   - .NET Desktop Runtime 7.0.0-preview.4.22229.2
 - Language support
   - C# 11.0
-  - F# 6.0
+  - F# 7.0
   - Visual Basic 16.9
 
 ### 7.0.0-preview.3 - 2022-04-13
@@ -133,7 +151,7 @@
   - .NET Desktop Runtime 7.0.0-preview.4.22229.2
 - Language support
   - C# 11.0
-  - F# 6.0
+  - F# 7.0
   - Visual Basic 16.9
 
 ### 7.0.0-preview.2 - 2022-03-15
@@ -151,7 +169,7 @@
   - .NET Desktop Runtime 7.0.0-preview.2.22153.5
 - Language support
   - C# 11.0
-  - F# 6.0
+  - F# 7.0
   - Visual Basic 16.9
 
 ### 7.0.0-preview.1 - 2022-02-17
@@ -169,7 +187,7 @@
   - .NET Desktop Runtime 7.0.0-preview.1.22077.5
 - Language support
   - C# 11.0
-  - F# 6.0
+  - F# 7.0
   - Visual Basic 16.9
 
 ---
