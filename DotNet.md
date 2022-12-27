@@ -8,6 +8,26 @@
 - Status: Preview
 - [Download .NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 
+### 7.0.1 - 2022-12-13
+
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.1/7.0.1.md)
+
+#### SDK 7.0.101
+
+- Visual Studio support
+  - Visual Studio 2022 (v17.4)
+  - Visual Studio 2022 for Mac (v17.4)
+- Included in
+  - Visual Studio 2022 (v17.4.3)
+- Included runtimes
+  - .NET Runtime 7.0.1
+  - ASP.NET Core Runtime 7.0.1
+  - .NET Desktop Runtime 7.0.1
+- Language support
+  - C# 11.0
+  - F# 7.0
+  - Visual Basic 16.9
+
 ### 7.0.0 - 2022-11-08
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.0/7.0.0.md)
