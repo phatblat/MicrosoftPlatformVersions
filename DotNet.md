@@ -217,6 +217,53 @@
 - Status: LTS (until 2024-11-08)
 - [Download .NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
+### 6.0.13 - 2023-01-10
+
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.13/6.0.13.md)
+
+#### SDK 6.0.405
+
+- Included runtimes
+  - .NET Runtime 6.0.13
+  - ASP.NET Core Runtime 6.0.13
+  - .NET Desktop Runtime 6.0.13
+- Language support
+  - C# 10.0
+  - F# 6.0
+  - Visual Basic 16.9
+
+#### SDK 6.0.308
+
+- Visual Studio support
+  - Visual Studio 2022 (v17.2)
+  - Visual Studio 2022 for Mac (v17.4)
+- Included in
+  - Visual Studio 17.2.11
+- Runtimes
+  - .NET Runtime 6.0.13
+  - ASP.NET Core Runtime 6.0.13
+  - .NET Desktop Runtime 6.0.13
+- Language support
+  - C# 10.0
+  - F# 6.0
+  - Visual Basic 16.9
+
+#### SDK 6.0.113
+
+- Visual Studio support
+  - Visual Studio 2022 (v17.0)
+  - Visual Studio 2022 for Mac (v17.4)
+- Included in
+  - Visual Studio 17.0.18
+- Runtimes
+  - .NET Runtime 6.0.13
+  - ASP.NET Core Runtime 6.0.13
+  - .NET Desktop Runtime 6.0.13
+- Language support
+  - C# 10.0
+  - F# 6.0
+  - Visual Basic 16.9
+
 ### 6.0.12 - 2022-12-13
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.12/6.0.12.md)
@@ -239,6 +286,22 @@
   - Visual Studio 2022 for Mac (v17.4)
 - Included in
   - Visual Studio 17.2.11
+- Runtimes
+  - .NET Runtime 6.0.12
+  - ASP.NET Core Runtime 6.0.12
+  - .NET Desktop Runtime 6.0.12
+- Language support
+  - C# 10.0
+  - F# 6.0
+  - Visual Basic 16.9
+
+#### SDK 6.0.112
+
+- Visual Studio support
+  - Visual Studio 2022 (v17.0)
+  - Visual Studio 2022 for Mac (v17.4)
+- Included in
+  - Visual Studio 17.0.17
 - Runtimes
   - .NET Runtime 6.0.12
   - ASP.NET Core Runtime 6.0.12
