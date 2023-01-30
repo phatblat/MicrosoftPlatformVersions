@@ -1,9 +1,10 @@
-# 🍏 Xamarin.iOS
+#  Xamarin.iOS
 
 ## 15
 
 [github tags](https://github.com/xamarin/xamarin-macios/tags)
 
+- [16.2.0.2] - 2023-01-24
 - [16.1.1.28] - 2022-12-15
 - [16.1.1.27] - 2022-11-29
 - [16.0.0.72] - 2022-09-29
@@ -19,6 +20,7 @@
 - [15.2.0.1] - 2021-11-02
 - [15.0.0.6] - 2021-09-29
 
+[16.2.0.2]: https://github.com/xamarin/xamarin-macios/releases/tag/xamarin-ios-16.2.0.2
 [16.1.1.28]: https://github.com/xamarin/xamarin-macios/releases/tag/xamarin-ios-16.1.1.28
 [16.1.1.27]: https://github.com/xamarin/xamarin-macios/releases/tag/xamarin-ios-16.1.1.27
 [16.0.0.72]: https://github.com/xamarin/xamarin-macios/releases/tag/xamarin-ios-16.0.0.72
