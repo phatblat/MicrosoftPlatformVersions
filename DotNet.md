@@ -273,6 +273,51 @@
 - Status: LTS (until 2024-11-08)
 - [Download .NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
+### 6.0.14 - 2023-02-14
+
+- [release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.14/6.0.14.md)
+
+#### SDK 6.0.406
+
+- Included runtimes
+  - .NET Runtime 6.0.14
+  - ASP.NET Core Runtime 6.0.14
+  - .NET Desktop Runtime 6.0.14
+- Language support
+  - C# 10.0
+  - F# 6.0
+  - Visual Basic 16.9
+
+#### SDK 6.0.309
+
+- Visual Studio support
+  - Visual Studio 2022 (v17.2)
+- Included in
+  - Visual Studio 17.2.13
+- Runtimes
+  - .NET Runtime 6.0.14
+  - ASP.NET Core Runtime 6.0.14
+  - .NET Desktop Runtime 6.0.14
+- Language support
+  - C# 10.0
+  - F# 6.0
+  - Visual Basic 16.9
+
+#### SDK 6.0.114
+
+- Visual Studio support
+  - Visual Studio 2022 (v17.0)
+- Included in
+  - Visual Studio 17.0.19
+- Runtimes
+  - .NET Runtime 6.0.14
+  - ASP.NET Core Runtime 6.0.14
+  - .NET Desktop Runtime 6.0.14
+- Language support
+  - C# 10.0
+  - F# 6.0
+  - Visual Basic 16.9
+
 ### 6.0.13 - 2023-01-10
 
 - [release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.13/6.0.13.md)
