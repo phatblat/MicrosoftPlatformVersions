@@ -3,6 +3,10 @@
 - [Roadmap](https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap)
 - [Preview Download](https://visualstudio.microsoft.com/vs/preview/)
 
+## Visual Studio 2022 version 17.6
+
+- [Preview 1](https://docs.microsoft.com/en-us/visualstudio/releases/2022/release-notes-preview#17.6.0-pre.1.0) - 2023-02-21
+
 ## Visual Studio 2022 version 17.4
 
 - [Preview 6](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes-preview#17.4.0-pre.6.0) (17.4.0.2366) - 2022-11-01
