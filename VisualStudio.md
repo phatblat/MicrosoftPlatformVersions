@@ -10,6 +10,7 @@
 ## Visual Studio 2022 version 17.5
 
 - [17.5.1](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#17.5.1) - 2023-02-28
+- **[17.5.0](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#17.5.0)** - 2023-02-21
 
 ## Visual Studio 2022 version 17.4
 
