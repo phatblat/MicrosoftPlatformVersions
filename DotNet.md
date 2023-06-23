@@ -5,8 +5,24 @@
 
 ## 7.0
 
-- Status: Preview
+- Status: LTS
 - [Download .NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+
+### 7.0.8 - 2023-06-22
+
+- SDK 7.0.305
+- SDK 7.0.108
+
+### 7.0.7 - 2023-06-13
+
+- SDK 7.0.304
+- SDK 7.0.107
+
+### 7.0.5 - 2023-04-11
+
+- SDK 7.0.302
+- SDK 7.0.203
+- SDK 7.0.105
 
 ### 7.0.4 - 2023-03-14
 
