@@ -5,6 +5,16 @@
 
 ## Visual Studio 2022 for Mac version 17.6
 
+- [17.6.1](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.6.1) (17.6.0.452) - 2023-07-11
+- [17.6.0](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.6.0) (17.6.0.1575) - 2023-06-20
+- [Preview 9](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.6.0-pre.9) (17.6.0.1569) - 2023-06-13
+- [Preview 8](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.6.0-pre.8) (17.6.0.1539) - 2023-05-23
+- [Preview 7](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.6.0-pre.7) (17.6.0.1526) - 2023-05-17
+- [Preview 6](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.6.0-pre.6) (17.6.0.1496) - 2023-05-02
+- [Preview 5](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.6.0-pre.5) (17.6.0.1461) - 2023-04-25
+- [Preview 4](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.6.0-pre.4) (17.6.0.1438) - 2023-04-20
+- [Preview 3](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.6.0-pre.3) (17.6.0.1421) - 2023-04-11
+- [Preview 2](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.6.0-pre.2) (17.6.0.983) - 2023-03-14
 - [Preview 1](https://docs.microsoft.com/en-us/visualstudio/releases/2022/mac-release-notes-preview#17.6.0-pre.1) (17.6.0.402) - 2023-02-21
 
 ## Visual Studio 2022 for Mac version 17.5
