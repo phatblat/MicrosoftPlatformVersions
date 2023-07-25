@@ -5,6 +5,13 @@
 
 ## Visual Studio 2022 version 17.6
 
+- [17.6.5](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#17.6.5) - 2023-07-11
+- [17.6.5](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#17.6.5) - 2023-07-11
+- [17.6.4](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#17.6.4) - 2023-06-20
+- [17.6.3](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#17.6.3) - 2023-06-13
+- [17.6.2](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#17.6.2) - 2023-05-25
+- [17.6.1](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#17.6.1) - 2023-05-22
+- [17.6.0](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#17.6.0) - 2023-05-16
 - [Preview 1](https://docs.microsoft.com/en-us/visualstudio/releases/2022/release-notes-preview#17.6.0-pre.1.0) - 2023-02-21
 
 ## Visual Studio 2022 version 17.5
