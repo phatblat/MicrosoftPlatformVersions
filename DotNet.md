@@ -3,6 +3,15 @@
 - <https://dotnet.microsoft.com/en-us/download/dotnet>
 - <https://github.com/dotnet/installer/releases>
 
+## 8.0
+
+- Status: Preview
+- [Download .NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+
+### 8.0.0-rc.2 - 2022-10-10
+
+- SDK 8.0.100-rc.2 (23502.2)
+
 ## 7.0
 
 - Status: LTS
